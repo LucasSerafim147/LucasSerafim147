@@ -27,8 +27,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="30" />   
 </p>
 
-### 
-![Snake animation](https://github.com/LucasSerafim147/LucasSerafim147/blob/output/github-contribution-grid-snake.svg)
+
 
 
 

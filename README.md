@@ -11,9 +11,11 @@
 
 ## Sobre Mim
 
-Olá! Sou Lucas Serafim, desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias linguagens de programação e estou sempre buscando aprender mais.
+Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade SENAC, integrante do programa Embarque Digital. Sou apaixonado por tecnologia e inovação, com interesse em desenvolvimento de software, qualidade de sistemas, dados e criação de soluções tecnológicas que impactem positivamente pessoas e negócios.
 
-## Minhas Habilidades
+Busco constantemente aprender e aplicar novos conhecimentos em projetos que unam criatividade, eficiência e impacto social. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para o sucesso de equipes e organizações.
+
+## Minhas Tecnologias
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="30" />

@@ -2,12 +2,16 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSerafim147&theme=dark&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSerafim147&theme=dark&show_icons=true&bg_color=00000000" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSerafim147&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSerafim147&layout=compact&langs_count=8&card_width=320&theme=dark&bg_color=00000000" />
   </a>
 </div>
+
+## Sobre Mim
+
+Olá! Sou Lucas Serafim, desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias linguagens de programação e estou sempre buscando aprender mais.
 
 ## Minhas Habilidades
 
@@ -18,6 +22,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="30" />
 </p>
+
+
+
+
 
 ## Conecte-se Comigo
 

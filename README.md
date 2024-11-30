@@ -1,5 +1,12 @@
 ## Olá! Me chamo Lucas Serafim 👋
 
+## Sobre Mim
+
+Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade SENAC, integrante do programa Embarque Digital. Sou apaixonado por tecnologia e inovação, com interesse em desenvolvimento de software, qualidade de sistemas, dados e criação de soluções tecnológicas que impactem positivamente pessoas e negócios.
+
+Busco constantemente aprender e aplicar novos conhecimentos em projetos que unam criatividade, eficiência e impacto social. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para o sucesso de equipes e organizações.
+
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSerafim147&theme=dark&show_icons=true&bg_color=00000000" />
@@ -9,11 +16,6 @@
   </a>
 </div>
 
-## Sobre Mim
-
-Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade SENAC, integrante do programa Embarque Digital. Sou apaixonado por tecnologia e inovação, com interesse em desenvolvimento de software, qualidade de sistemas, dados e criação de soluções tecnológicas que impactem positivamente pessoas e negócios.
-
-Busco constantemente aprender e aplicar novos conhecimentos em projetos que unam criatividade, eficiência e impacto social. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para o sucesso de equipes e organizações.
 
 ## Minhas Tecnologias
 
